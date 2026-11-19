@@ -1,1 +1,33 @@
 
+{
+  "greenhouse": [
+    {
+      "company": "schrdinger",
+      "board_token": "schrdinger",
+      "enabled": true
+    },
+    {
+      "company": "MongoDB",   
+      "board_token": "MongoDB",
+      "enabled": true
+    },
+    {   
+      "company": "hanwhaenergyusa",
+      "board_token": "hanwhaenergyusa",
+      "enabled": true
+    },
+    {
+      "company": "lilasciences",
+      "board_token": "lilasciences",
+      "enabled": true
+    },
+    {
+      "company": "treasuryprime",
+      "board_token": "treasuryprime",
+      "enabled": true
+    }
+    
+    ]
+
+}
+
